@@ -4,7 +4,7 @@ pypinex_pack
 Introduction
 ------------
 
-This python module ...
+PyPine extension that supports various ways of compressing/uncompressing files: gzip, bzip2, xz, tar and uploadpack.
 
 Information about this module can be found here:
 

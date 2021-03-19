@@ -13,7 +13,7 @@
 		"keywords": [
 			"pypine", "pypinex", "gzip", "bzip2", "xz", "uploadpack", "tar",
 		],
-		"description": "Supports various ways of compressing/uncompressing files: gzip, bzip2, xz, tar and uploadpack.",
+		"description": "PyPine extension that supports various ways of compressing/uncompressing files: gzip, bzip2, xz, tar and uploadpack.",
 		"authors": [
 			{
 				"name": "Jürgen Knauth",

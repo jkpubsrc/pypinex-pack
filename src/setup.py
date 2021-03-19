@@ -23,7 +23,7 @@ setup(
 		"License :: OSI Approved :: Apache Software License",
 		"Programming Language :: Python :: 3",
 	],
-	description = "Supports various ways of compressing/uncompressing files: gzip, bzip2, xz, tar and uploadpack.",
+	description = "PyPine extension that supports various ways of compressing/uncompressing files: gzip, bzip2, xz, tar and uploadpack.",
 	include_package_data = True,
 	install_requires = [
 		"pypine",
