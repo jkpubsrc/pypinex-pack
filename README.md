@@ -8,7 +8,7 @@ PyPine extension that supports various ways of compressing/uncompressing files: 
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/pypinex-pack)
+* [github.com](https://github.com/jkpubsrc/pypinex-pack)
 * [pypi.python.org](https://pypi.python.org/pypi/pypinex-pack)
 
 Documentation
